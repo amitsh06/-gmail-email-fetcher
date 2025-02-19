@@ -1,4 +1,5 @@
-![Gmail Email Fetcher](https://github.com/amitsh06/gmail-email-fetcher/blob/main/banner.png)
+<img src="https://raw.githubusercontent.com/amitsh06/gmail-email-fetcher/main/https://github.com/amitsh06/-gmail-email-fetcher/blob/main/banner.png?raw=true" alt="Project Banner" width="100%">
+
 
 
 # 📧 Gmail Email Fetcher
