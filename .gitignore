@@ -4,3 +4,5 @@ emails.csv
 env/
 __pycache__/
 *.log
+.env
+emails.xlsx
