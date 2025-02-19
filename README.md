@@ -17,7 +17,7 @@
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/amitsh06/gmail-email-fetcher.git
+git clone https://github.com/amitsh06/-gmail-email-fetcher.git
 cd gmail-email-fetcher
 ```
 
