@@ -1,3 +1,6 @@
+![Gmail Email Fetcher](https://github.com/amitsh06/gmail-email-fetcher/blob/main/banner.png)
+
+
 # 📧 Gmail Email Fetcher
 
 🚀 **Gmail Email Fetcher** is a Python-based tool that helps you fetch emails from your Gmail account, extract important details, and store them securely in an Excel file.
