@@ -1,4 +1,4 @@
-img src="https://raw.githubusercontent.com/amitsh06/gmail-email-fetcher/main/https://github.com/amitsh06/-gmail-email-fetcher/blob/main/banner.png?raw=true" alt="Project Banner" width="100%"
+img src="https://raw.githubusercontent.com/amitsh06/-gmail-email-fetcher/c32bc060050c5c342e34516eb1e572be3525f125/banner.png" alt="Project Banner" width="100%"
 
 
 
